@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\IsItALeapYear\IsItALeapYear\bin\Debug\net472\IsItALeapYear.exe.config
+C:\Users\Admin\source\repos\IsItALeapYear\IsItALeapYear\bin\Debug\net472\IsItALeapYear.exe
+C:\Users\Admin\source\repos\IsItALeapYear\IsItALeapYear\bin\Debug\net472\IsItALeapYear.pdb
+C:\Users\Admin\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\net472\IsItALeapYear.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\net472\IsItALeapYear.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\net472\IsItALeapYear.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\net472\IsItALeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\net472\IsItALeapYear.exe
+C:\Users\Admin\source\repos\IsItALeapYear\IsItALeapYear\obj\Debug\net472\IsItALeapYear.pdb
